@@ -6,11 +6,8 @@ It uses Focal Loss for class imbalance and exports a ready-to-use package for St
 🔹Features
 
 DistilBERT + Focal Loss
-
 3 sentiment classes (Positive, Neutral, Negative)
-
 Evaluation with Accuracy & F1
-
 Auto ZIP export for Streamlit deployment
 
 🔹Tech Stack
